@@ -7,7 +7,7 @@ module.exports = {
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'lowkeng's blog',
+  name: 'lowkeng blog',
   domain: 'https://www.notion.so/e2ea63b72f644f3a82a7d0defc6b5079',
   author: 'lowkeng',
 
